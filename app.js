@@ -1,7 +1,8 @@
 const fs = require('fs');
+
 // ----------- @@ Array of folders and files @@ -----------
 const express_dir = [
-    'App', 'app.js', 'route', 'route.js', 'public', 'app.js', 'style.css', 'controllers', 'middleware'
+    'App', 'app.js', 'route', 'route.js', 'public', 'app.js', 'style.css', 'controllers', 'middleware', 'test'
 ];
 
 // ---------- @@ for checking every element of array @@ ------------
