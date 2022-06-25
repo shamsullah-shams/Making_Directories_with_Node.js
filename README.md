@@ -9,11 +9,11 @@ git clone https://github.com/shamsullah-shams/Making_Directories_with_Node.js.gi
 ```
 
 ## Command to create directories
-node app
+`node app`
 
 
 
-## Application Structure
+## Application Structure the code will make
 
 ```
 App\
